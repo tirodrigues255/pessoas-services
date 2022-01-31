@@ -1,0 +1,8 @@
+spring:
+    data:
+        mongodb:
+            auto-index-creation: true
+            uri: "mongodb+srv://pessoas:Qawsedrf@pessoas.e3adc.mongodb.net/ProcessoSeletivo?retryWrites=true&w=majority"
+            
+
+  
